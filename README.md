@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ishaq Khan K.
+## Hi 👋, I'm Ishaq Khan K.
 
 <!--
 **DevIshaqStack/DevIshaqStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
